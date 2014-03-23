@@ -10,7 +10,9 @@ Installation is really easy:
 
 * Create a local virtualhost. You can follow [this guide](https://www.digitalocean.com/community/articles/how-to-set-up-apache-virtual-hosts-on-ubuntu-12-04-lts) for Apache & Linux
 * [Install PHPUnit](http://phpunit.de/manual/current/en/installation.html) if you didn't do it before.
+* Move to the folder you want to clone the repo into
 * Clone the repository ```git clone https://github.com/napolux/helloslim.git```
+* Install composer: ```curl -sS https://getcomposer.org/installer | php```
 * Launch ```php composer.phar update```.
 * Enjoy
 
