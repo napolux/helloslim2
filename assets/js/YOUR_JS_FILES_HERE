@@ -1,0 +1,3 @@
+EXAMPLE:
+Include this in your twig footer
+<script src="{{ jsPath }}script.js" />

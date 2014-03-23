@@ -14,8 +14,6 @@ $twig   = new Twig_Environment($loader, array(
 // twig globals...
 $twig->addGlobal('cssPath', '/assets/css/');
 $twig->addGlobal('jsPath', '/assets/js/');
-$twig->addGlobal('get', $_GET);
-
 
 // Hello World...
 $app->get('/', function () {

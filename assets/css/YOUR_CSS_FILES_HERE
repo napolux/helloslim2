@@ -1,0 +1,3 @@
+EXAMPLE:
+Include this in your twig header
+<link rel="stylesheet" href="{{ cssPath }}homepage.css" />
