@@ -13,7 +13,7 @@ Installation is really easy:
 * Move to the folder you want to clone the repo into
 * Clone the repository ```git clone https://github.com/napolux/helloslim.git```
 * Install composer: ```curl -sS https://getcomposer.org/installer | php```
-* Launch ```php composer.phar update```.
+* Launch ```php composer.phar update```
 * Enjoy
 
 Legal stuff
