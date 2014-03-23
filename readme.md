@@ -2,7 +2,7 @@ HelloSlim
 =========
 
 A starter kit for small PHP Projects containing the [Slim](http://www.slimframework.com/) microframework, [Twig](http://twig.sensiolabs.org/) as Template Engine and [ReadBeanPHP](http://redbeanphp.com/) as ORM.
-PHPUnit is there, just for you to use :P
+If you use PHPUnit for tests, the ```/tests``` folder is there, just for you to use :P
 
 Installation
 ------------
@@ -12,7 +12,6 @@ Installation is really easy:
 * [Install PHPUnit](http://phpunit.de/manual/current/en/installation.html) if you didn't do it before.
 * Clone the repository ```git clone https://github.com/napolux/helloslim.git```
 * Launch ```php composer.phar update```.
-* Launch the basic test ```phpunit tests/SetupTest.php``` and make it green, just to be sure everything is fine with the setup (it's just a true == true test).
 * Enjoy
 
 Legal stuff
