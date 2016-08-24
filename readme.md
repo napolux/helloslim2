@@ -1,10 +1,9 @@
-HelloSlim2
-==========
+HelloSlim2 - This is no longer mantained!
+=========================================
 
 A starter kit for small PHP Projects containing the [Slim](http://www.slimframework.com/) microframework (version 2), [Twig](http://twig.sensiolabs.org/) as Template Engine and [ReadBeanPHP](http://redbeanphp.com/) as ORM.
 If you use PHPUnit for tests, the ```/tests``` folder is there, just for you to use :P
 
-**This is no longer mantained!**
 
 Installation
 ------------
